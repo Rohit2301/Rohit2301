@@ -1,0 +1,6 @@
+- 👋 Hi, I’m  **Rohit Kumar**,
+- 👀 I’m interested in web and blockchain devlopment,
+- 🌱 I’m currently doing B.Tech in CSE,
+- 💞️ I’m would love to collaborate on any interesting devlopment project.
+- 📫 To reach me, you can contact me through linkedin on [Rohit_Kumar](linkedin.com/in/rohit-kumar-578baa203) ,
+- or email me at [duhanrohit2301@gmail.com](duhanrohit2301@gmail.com).
